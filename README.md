@@ -1,6 +1,8 @@
 # CS230_DAA
 Code for CS230 course project on implementing a vision-based detect and avoid (DAA) system.
 
+![](https://github.com/smkatz12/CS230_DAA/blob/main/results/test_above.gif)
+
 ### Getting set up with X-Plane 11
 The data generation files in this repository require [X-Plane 11](https://www.x-plane.com) and the [XPlaneConnect Plugin](https://github.com/nasa/XPlaneConnect). Information about how to set this up can be found [here](https://github.com/StanfordASL/NASA_ULI_Xplane_Simulator).
 
