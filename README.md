@@ -13,8 +13,14 @@ The data generation files in this repository require [X-Plane 11](https://www.x-
 
 `src/data_generation/tune_bounding.ipynb`: notebook used to tune parameters for bounding box labeling
 
+`src/data_generation/xpc3.py`: code required to interface with X-Plane 11
+
 `src/yolo_v5/`: code to train yolo network (see [here](https://github.com/ultralytics/yolov5))
 
-`models/uniform_v1`: baseline model
+`src/util.py`: utility functions for loading in networks and evaluating them on images from X-Plane 11
 
-`results/`: gifs of preliminary results
+`src/CS230_results.ipynb`: notebook with results analysis and figure generation code
+
+`models/`: contains models for three trials
+
+`results/`: gifs of results

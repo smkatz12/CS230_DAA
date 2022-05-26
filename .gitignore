@@ -1,1 +1,2 @@
 src/yolo_v5/runs/
+*__pycache__*
