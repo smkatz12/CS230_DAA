@@ -19,7 +19,7 @@ The data generation files in this repository require [X-Plane 11](https://www.x-
 
 `src/util.py`: utility functions for loading in networks and evaluating them on images from X-Plane 11
 
-`src/CS230_results.ipynb`: notebook with results analysis and figure generation code
+`src/CS230_results.ipynb`: notebook with results analysis and figure generation codes
 
 `models/`: contains models for three trials
 
